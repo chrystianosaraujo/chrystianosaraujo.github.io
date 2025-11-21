@@ -1,0 +1,13 @@
+@article{AC2014,
+title = "Quadrilateral Mesh Generation with Deferred Constraint Insertion",
+journal = "Procedia Engineering",
+volume = "82",
+pages = "88 - 100",
+year = "2014",
+note = "23rd International Meshing Roundtable (IMR23)",
+issn = "1877-7058",
+doi = "https://doi.org/10.1016/j.proeng.2014.10.375",
+url = "http://www.sciencedirect.com/science/article/pii/S1877705814016543",
+author = "Chrystiano Ara\'{u}jo and Waldemar Celes",
+keywords = "quadrilateral mesh, triangular mesh, mesh with constraints;",
+}

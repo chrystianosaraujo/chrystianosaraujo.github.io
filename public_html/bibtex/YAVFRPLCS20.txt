@@ -1,0 +1,14 @@
+ @article{Yang:2020:DHFSlicer,
+      author    = {Yang, Jinfan and Ara\'{u}jo, Chrystiano and Vining, Nicholas and Ferguson, 
+                  Zachary and Rosales, Enrique and Panozzo, Daniele and Lefevbre, Sylvain and 
+                  Cignoni, Paolo and Sheffer, Alla},
+      title     = {DHFSlicer: Double Height-Field Slicing for Milling Fixed-Height Materials},
+      journal   = {ACM Transaction on Graphics},
+      year      = {2020},
+      volume    = {39},
+      number    = {6},
+      doi       = {https://doi.org/10.1145/3414685.3417810},
+      publisher = {ACM},
+      address   = {New York, NY, USA}
+  }
+  

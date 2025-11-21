@@ -1,0 +1,13 @@
+@article{araujo23Reshaping,
+      author    = {Ara\'{u}jo, Chrystiano and Vining, Nicholas and Burla, Silver and Ruivo de Oliveira, Manuel
+                   and Rosales, Enrique and Sheffer, Alla},
+      title     = {Slippage-Preserving Reshaping of Human-Made 3D Content},
+      journal   = {ACM Transaction on Graphics},
+      year      = {2023},
+      volume    = {42},
+      number    = {6},
+      doi       = {https://doi.org/10.1145/3618391},
+      publisher = {ACM},
+      address   = {New York, NY, USA}
+    }
+    

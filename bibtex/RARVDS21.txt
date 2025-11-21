@@ -1,0 +1,13 @@
+@article{Rosales:2021:AdaptiBrush,
+      author    = {Rosales, Enrique and Ara\'{u}jo, Chrystiano and Rodriguez, Jafet and Vining, Nicholas and 
+                  Yoon, Dongwook and Sheffer, Alla},
+      title     = {AdaptiBrush: Adaptive General and Predictable VR Ribbon Brush},
+      journal   = {ACM Transaction on Graphics},
+      year      = {2021},
+      volume    = {40},
+      number    = {1},
+      doi       = {https://doi.org/10.1145/3478513.3480511},
+      publisher = {ACM},
+      address   = {New York, NY, USA}
+  }
+  

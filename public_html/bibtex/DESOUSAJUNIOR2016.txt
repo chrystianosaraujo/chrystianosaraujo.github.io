@@ -1,0 +1,12 @@
+@article{DESOUSAJUNIOR20167,
+title = "Methodology for geomechanically controlled transmissibility through active natural fractures in reservoir simulation",
+journal = "Journal of Petroleum Science and Engineering",
+volume = "147",
+pages = "7 - 14",
+year = "2016",
+issn = "0920-4105",
+doi = "https://doi.org/10.1016/j.petrol.2016.04.040",
+url = "http://www.sciencedirect.com/science/article/pii/S0920410516301565",
+author = "Luis Carlos de Sousa Junior and Luiz Otávio Schmall dos Santos and Victor de Souza Rios and Chrystiano Araújo and Waldemar Celes and Kamy Sepehrnoori",
+keywords = "Geomechanically, Transmissibility, Active natural fractures, Reservoir simulation",
+}

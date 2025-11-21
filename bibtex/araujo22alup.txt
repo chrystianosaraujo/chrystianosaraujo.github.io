@@ -1,0 +1,12 @@
+@article{araujo22alup,
+      author    = {Ara\'{u}jo, Chrystiano and Vining, Nicholas and Rosales, Enrique and
+                   Gori, Giorgio and Sheffer, Alla},
+      title     = {As-Locally-Uniform-As-Possible Reshaping of Vector Clip-Art},
+      journal   = {ACM Transaction on Graphics},
+      year      = {2022},
+      volume    = {41},
+      number    = {4},
+      doi       = {https://doi.org/0.1145/3528223.3530098},
+      publisher = {ACM},
+      address   = {New York, NY, USA}
+}
